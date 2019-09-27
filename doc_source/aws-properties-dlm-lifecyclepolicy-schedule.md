@@ -47,7 +47,7 @@ The create rule\.
 
 `Name`  <a name="cfn-dlm-lifecyclepolicy-schedule-name"></a>
 The name of the schedule\.  
-*Required*: No  
+*Required*: Yes  
 *Type*: String  
 *Minimum*: `0`  
 *Maximum*: `500`  
